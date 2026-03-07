@@ -16,6 +16,7 @@
 
 - Kali渗透安全高级工程师进阶班		链接: https://pan.baidu.com/s/19F8qndnxj-Nhxp-E2p873Q?pwd=qqnn
 - 从0开始学习网络安全开发         链接: https://pan.quark.cn/s/25b5e22da2ab
+- Kali安全渗透+Web白帽子高级工程师+黑客攻防 - 带源码课件     链接：https://pan.quark.cn/s/8178a19df6b7
 - [TryHackMe](https://tryhackme.com/) - 在线渗透测试学习平台
 
 ## 工具
