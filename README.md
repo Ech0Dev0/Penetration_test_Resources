@@ -23,7 +23,8 @@
 
 ### 信息收集
 
-敏感信息收集：https://github.com/obheda12/GitDorker
+- 敏感信息收集：https://github.com/obheda12/GitDorker
+- nessus安装包 链接：https://pan.quark.cn/s/d40a3aa244c2
 
 #### 社工查询
 
